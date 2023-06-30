@@ -1369,7 +1369,11 @@ const iphones = [
             "value": 999,
             "name": "iPhone 13",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/xs1Tyv4.jpg",
+            "srcImg": [
+                "https://i.imgur.com/d0tQjyQ.png",
+                "https://i.imgur.com/v96tW3m.png",
+                "https://i.imgur.com/jjGmzOc.png"
+            ],
             "specifications": [
                 {
                     "title": "Display",
