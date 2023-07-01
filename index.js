@@ -14,6 +14,31 @@ const iphones = [
             ],
             "specifications": [
                 {
+                    "title": "Color",
+                    "items": [
+                        {
+                            "name": "Black",
+                            "srcImg": "https://i.imgur.com/rvJXTo2.png"
+                        },
+                        {
+                            "name": "White",
+                            "srcImg": "https://i.imgur.com/eC15LBy.png"
+                        },
+                        {
+                            "name": "Red",
+                            "srcImg": "https://i.imgur.com/0Yd0PRo.png"
+                        },
+                        {
+                            "name": "Green",
+                            "srcImg": "https://i.imgur.com/HmRIaMi.png"
+                        },
+                        {
+                            "name": "Blue",
+                            "srcImg": "https://i.imgur.com/zPzb56Y.png"
+                        }
+                    ]
+                },
+                {
                     "title": "Display",
                     "items": [
                         {
@@ -52,31 +77,6 @@ const iphones = [
                             "value": 150
                         }
                     ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Black",
-                            "srcImg": "https://i.imgur.com/rvJXTo2.png"
-                        },
-                        {
-                            "name": "White",
-                            "srcImg": "https://i.imgur.com/eC15LBy.png"
-                        },
-                        {
-                            "name": "Red",
-                            "srcImg": "https://i.imgur.com/0Yd0PRo.png"
-                        },
-                        {
-                            "name": "Green",
-                            "srcImg": "https://i.imgur.com/HmRIaMi.png"
-                        },
-                        {
-                            "name": "Blue",
-                            "srcImg": "https://i.imgur.com/zPzb56Y.png"
-                        }
-                    ]
                 }
             ]
         },
@@ -88,6 +88,35 @@ const iphones = [
                 "https://i.imgur.com/fq2xDPu.png"
             ],
             "specifications": [
+                {
+                    "title": "Color",
+                    "items": [
+                        {
+                            "name": "Pink",
+                            "srcImg": "https://i.imgur.com/fPvM82l.png"
+                        },
+                        {
+                            "name": "Blue",
+                            "srcImg": "https://i.imgur.com/fF0v9GK.png"
+                        },
+                        {
+                            "name": "Midnight",
+                            "srcImg": "https://i.imgur.com/LjMz6D5.png"
+                        },
+                        {
+                            "name": "Starlight",
+                            "srcImg": "https://i.imgur.com/zSO5fKO.png"
+                        },
+                        {
+                            "name": "Green",
+                            "srcImg": "https://i.imgur.com/Facfy8W.png"
+                        },
+                        {
+                            "name": "Product(RED)",
+                            "srcImg": "https://i.imgur.com/yQYiR5P.png"
+                        }
+                    ]
+                },
                 {
                     "title": "Display",
                     "items": [
@@ -131,7 +160,17 @@ const iphones = [
                             "value": 400
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "value": 1099,
+            "name": "iPhone 13 mini",
+            "type": "iphone",
+            "srcImg": [
+                "https://i.imgur.com/fq2xDPu.png"
+            ],
+            "specifications": [
                 {
                     "title": "Color",
                     "items": [
@@ -160,17 +199,7 @@ const iphones = [
                             "srcImg": "https://i.imgur.com/yQYiR5P.png"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "value": 1099,
-            "name": "iPhone 13 mini",
-            "type": "iphone",
-            "srcImg": [
-                "https://i.imgur.com/fq2xDPu.png"
-            ],
-            "specifications": [
+                },
                 {
                     "title": "Display",
                     "items": [
@@ -214,35 +243,6 @@ const iphones = [
                             "value": 400
                         }
                     ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Pink",
-                            "srcImg": "https://i.imgur.com/fPvM82l.png"
-                        },
-                        {
-                            "name": "Blue",
-                            "srcImg": "https://i.imgur.com/fF0v9GK.png"
-                        },
-                        {
-                            "name": "Midnight",
-                            "srcImg": "https://i.imgur.com/LjMz6D5.png"
-                        },
-                        {
-                            "name": "Starlight",
-                            "srcImg": "https://i.imgur.com/zSO5fKO.png"
-                        },
-                        {
-                            "name": "Green",
-                            "srcImg": "https://i.imgur.com/Facfy8W.png"
-                        },
-                        {
-                            "name": "Product(RED)",
-                            "srcImg": "https://i.imgur.com/yQYiR5P.png"
-                        }
-                    ]
                 }
             ]
         },
@@ -252,6 +252,23 @@ const iphones = [
             "type": "iphone",
             "srcImg": "https://i.imgur.com/EpR93Eb.png",
             "specifications": [
+                {
+                    "title": "Color",
+                    "items": [
+                        {
+                            "name": "Graphite"
+                        },
+                        {
+                            "name": "Gold"
+                        },
+                        {
+                            "name": "Silver"
+                        },
+                        {
+                            "name": "Sierra Blue"
+                        }
+                    ]
+                },
                 {
                     "title": "Display",
                     "items": [
@@ -295,7 +312,15 @@ const iphones = [
                             "value": 400
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "value": 1399,
+            "name": "iPhone 13 Pro Max",
+            "type": "iphone",
+            "srcImg": ["https://i.imgur.com/qVF8BhK.png"],
+            "specifications": [
                 {
                     "title": "Color",
                     "items": [
@@ -312,15 +337,7 @@ const iphones = [
                             "name": "Sierra Blue"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "value": 1399,
-            "name": "iPhone 13 Pro Max",
-            "type": "iphone",
-            "srcImg": ["https://i.imgur.com/qVF8BhK.png"],
-            "specifications": [
+                },
                 {
                     "title": "Display",
                     "items": [
@@ -364,23 +381,6 @@ const iphones = [
                             "value": 400
                         }
                     ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Graphite"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Sierra Blue"
-                        }
-                    ]
                 }
             ]
         },
@@ -390,6 +390,26 @@ const iphones = [
             "type": "iphone",
             "srcImg": "https://i.imgur.com/d7UQOGC.jpg",
             "specifications": [
+                {
+                    "title": "Color",
+                    "items": [
+                        {
+                            "name": "Black"
+                        },
+                        {
+                            "name": "White"
+                        },
+                        {
+                            "name": "Red"
+                        },
+                        {
+                            "name": "Green"
+                        },
+                        {
+                            "name": "Blue"
+                        }
+                    ]
+                },
                 {
                     "title": "Display",
                     "items": [
@@ -433,7 +453,15 @@ const iphones = [
                             "value": 400
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "value": 1099,
+            "name": "iPhone 14 Plus",
+            "type": "iphone",
+            "srcImg": "https://i.imgur.com/ff7aLuh.jpg",
+            "specifications": [
                 {
                     "title": "Color",
                     "items": [
@@ -453,15 +481,7 @@ const iphones = [
                             "name": "Blue"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "value": 1099,
-            "name": "iPhone 14 Plus",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/ff7aLuh.jpg",
-            "specifications": [
+                },
                 {
                     "title": "Display",
                     "items": [
@@ -505,26 +525,6 @@ const iphones = [
                             "value": 400
                         }
                     ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Black"
-                        },
-                        {
-                            "name": "White"
-                        },
-                        {
-                            "name": "Red"
-                        },
-                        {
-                            "name": "Green"
-                        },
-                        {
-                            "name": "Blue"
-                        }
-                    ]
                 }
             ]
         },
@@ -534,6 +534,23 @@ const iphones = [
             "type": "iphone",
             "srcImg": "https://i.imgur.com/ZNL8gtX.jpg",
             "specifications": [
+                {
+                    "title": "Color",
+                    "items": [
+                        {
+                            "name": "Graphite"
+                        },
+                        {
+                            "name": "Gold"
+                        },
+                        {
+                            "name": "Silver"
+                        },
+                        {
+                            "name": "Bronze"
+                        }
+                    ]
+                },
                 {
                     "title": "Display",
                     "items": [
@@ -577,7 +594,15 @@ const iphones = [
                             "value": 400
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "value": 1399,
+            "name": "iPhone 14 Pro Max",
+            "type": "iphone",
+            "srcImg": ["https://i.imgur.com/e5QDo6w.png", "https://i.imgur.com/qiul8iu.png"],
+            "specifications": [
                 {
                     "title": "Color",
                     "items": [
@@ -594,15 +619,7 @@ const iphones = [
                             "name": "Bronze"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "value": 1399,
-            "name": "iPhone 14 Pro Max",
-            "type": "iphone",
-            "srcImg": ["https://i.imgur.com/e5QDo6w.png", "https://i.imgur.com/qiul8iu.png"],
-            "specifications": [
+                },
                 {
                     "title": "Display",
                     "items": [
@@ -644,23 +661,6 @@ const iphones = [
                         {
                             "name": "1 TB",
                             "value": 400
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Graphite"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Bronze"
                         }
                     ]
                 }
