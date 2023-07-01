@@ -6,68 +6,6 @@ const port = 3000
 
 const iphones = [
         {
-            "value": 399,
-            "name": "iPhone SE (2nd generation)",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/PKx0WZb.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "4.7-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A13 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP single-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "64 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 150
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Black"
-                        },
-                        {
-                            "name": "White"
-                        },
-                        {
-                            "name": "Red"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "value": 699,
             "name": "iPhone 11",
             "type": "iphone",
@@ -263,67 +201,6 @@ const iphones = [
                         },
                         {
                             "name": "Midnight Green"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 399,
-            "name": "iPhone SE (1st generation)",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/sqXs7As.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "4.7-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A9 chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP single-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "32 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 100
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Space Gray"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Rose Gold"
                         }
                     ]
                 }
@@ -580,518 +457,6 @@ const iphones = [
             ]
         },
         {
-            "value": 399,
-            "name": "iPhone 8",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/K8PQ5Tz.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "4.7-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A11 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP single-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "64 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Space Gray"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Red"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 449,
-            "name": "iPhone 8 Plus",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/ou0JYzz.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "5.5-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A11 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP dual-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "64 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Space Gray"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Red"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 699,
-            "name": "iPhone 7",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/lEO8hGW.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "4.7-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A10 Fusion chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP single-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "32 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 150
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Black"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Rose Gold"
-                        },
-                        {
-                            "name": "Red"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 799,
-            "name": "iPhone 7 Plus",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/8GBRySW.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "5.5-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A10 Fusion chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP dual-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "32 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 150
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Black"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Rose Gold"
-                        },
-                        {
-                            "name": "Red"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 999,
-            "name": "iPhone 6S",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/kICLfva.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "4.7-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A9 chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP single-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "32 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 150
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Space Gray"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Rose Gold"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 1149,
-            "name": "iPhone 6S Plus",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/doyFs0f.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "5.5-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A9 chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP single-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "32 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 150
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Space Gray"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Rose Gold"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 349,
-            "name": "iPhone SE (2nd generation)",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/jmTF86Y.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "4.7-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A13 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP single-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "64 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 150
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Black"
-                        },
-                        {
-                            "name": "White"
-                        },
-                        {
-                            "name": "Red"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 349,
-            "name": "iPhone SE (3rd generation)",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/jmTF86Y.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "4.7-inch Retina HD"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A15 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP single-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "64 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 150
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Black"
-                        },
-                        {
-                            "name": "White"
-                        },
-                        {
-                            "name": "Red"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "value": 699,
             "name": "iPhone 12",
             "type": "iphone",
@@ -1231,7 +596,7 @@ const iphones = [
             "value": 1099,
             "name": "iPhone 12 Pro",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/XsgGyYx.jpg",
+            "srcImg": "https:/live.staticflickr.com/65535/53011472708_f54ce0d531_z.jpg",
             "specifications": [
                 {
                     "title": "Display",
@@ -1300,7 +665,7 @@ const iphones = [
             "value": 1199,
             "name": "iPhone 12 Pro Max",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/ok2u3WT.jpg",
+            "srcImg": "https://i.imgur.com/tE0eN9V.png",
             "specifications": [
                 {
                     "title": "Display",
@@ -1445,7 +810,13 @@ const iphones = [
             "value": 1099,
             "name": "iPhone 13 mini",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/9I6w0N5.jpg",
+            "srcImg": [
+                "https://i.imgur.com/I9i9Jxj.png",
+                "https://i.imgur.com/jyYAsGT.png",
+                "https://i.imgur.com/sgeFbOJ.png",
+                "https://i.imgur.com/1IkVdWv.png",
+                "https://live.staticflickr.com/65535/53010937621_71614d1939_b.jpg"
+            ],
             "specifications": [
                 {
                     "title": "Display",
@@ -1517,7 +888,7 @@ const iphones = [
             "value": 1299,
             "name": "iPhone 13 Pro",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/5KGz3pU.jpg",
+            "srcImg": "https://i.imgur.com/EpR93Eb.png",
             "specifications": [
                 {
                     "title": "Display",
@@ -1586,7 +957,7 @@ const iphones = [
             "value": 1399,
             "name": "iPhone 13 Pro Max",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/x5EdgFW.jpg",
+            "srcImg": ["https://i.imgur.com/qVF8BhK.png"],
             "specifications": [
                 {
                     "title": "Display",
@@ -1868,7 +1239,7 @@ const iphones = [
             "value": 1399,
             "name": "iPhone 14 Pro Max",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/e5QDo6w.png",
+            "srcImg": ["https://i.imgur.com/e5QDo6w.png", "https://i.imgur.com/qiul8iu.png"],
             "specifications": [
                 {
                     "title": "Display",
