@@ -165,7 +165,7 @@ const iphones = [
         },
         {
             "value": 1099,
-            "name": "iPhone 13 mini",
+            "name": "iPhone 13 Mini",
             "type": "iphone",
             "srcImg": [
                 "https://i.imgur.com/fq2xDPu.png"
@@ -247,166 +247,39 @@ const iphones = [
             ]
         },
         {
-            "value": 1299,
-            "name": "iPhone 13 Pro",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/EpR93Eb.png",
-            "specifications": [
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Graphite"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Sierra Blue"
-                        }
-                    ]
-                },
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "6.1-inch Super Retina XDR"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A15 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP triple-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "128 GB"
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 100
-                        },
-                        {
-                            "name": "512 GB",
-                            "value": 200
-                        },
-                        {
-                            "name": "1 TB",
-                            "value": 400
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 1399,
-            "name": "iPhone 13 Pro Max",
-            "type": "iphone",
-            "srcImg": ["https://i.imgur.com/qVF8BhK.png"],
-            "specifications": [
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Graphite"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Sierra Blue"
-                        }
-                    ]
-                },
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "6.7-inch Super Retina XDR"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A15 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP triple-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "128 GB"
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 100
-                        },
-                        {
-                            "name": "512 GB",
-                            "value": 200
-                        },
-                        {
-                            "name": "1 TB",
-                            "value": 400
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "value": 999,
             "name": "iPhone 14",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/d7UQOGC.jpg",
+            "srcImg": [
+                "https://i.imgur.com/YP5VVmn.png"
+            ],
             "specifications": [
                 {
                     "title": "Color",
                     "items": [
                         {
-                            "name": "Black"
+                            "name": "Midnight",
+                            "srcImg": "https://i.imgur.com/AKJCzI1.png"
                         },
                         {
-                            "name": "White"
+                            "name": "Starlight",
+                            "srcImg": "https://i.imgur.com/sPGTi7U.png"
                         },
                         {
-                            "name": "Red"
+                            "name": "Red",
+                            "srcImg": "https://i.imgur.com/e3PQ4IX.png"
                         },
                         {
-                            "name": "Green"
+                            "name": "Purple",
+                            "srcImg": "https://i.imgur.com/0VuDrcg.png"
                         },
                         {
-                            "name": "Blue"
+                            "name": "Blue",
+                            "srcImg": "https://i.imgur.com/vfsuihe.png"
+                        },
+                        {
+                            "name": "Yellow",
+                            "srcImg": "https://i.imgur.com/q04Ly1y.png"
                         }
                     ]
                 },
@@ -460,25 +333,36 @@ const iphones = [
             "value": 1099,
             "name": "iPhone 14 Plus",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/ff7aLuh.jpg",
+            "srcImg": [
+                "https://i.imgur.com/YP5VVmn.png"
+            ],
             "specifications": [
                 {
                     "title": "Color",
                     "items": [
                         {
-                            "name": "Black"
+                            "name": "Midnight",
+                            "srcImg": "https://i.imgur.com/AKJCzI1.png"
                         },
                         {
-                            "name": "White"
+                            "name": "Starlight",
+                            "srcImg": "https://i.imgur.com/sPGTi7U.png"
                         },
                         {
-                            "name": "Red"
+                            "name": "Red",
+                            "srcImg": "https://i.imgur.com/e3PQ4IX.png"
                         },
                         {
-                            "name": "Green"
+                            "name": "Purple",
+                            "srcImg": "https://i.imgur.com/0VuDrcg.png"
                         },
                         {
-                            "name": "Blue"
+                            "name": "Blue",
+                            "srcImg": "https://i.imgur.com/vfsuihe.png"
+                        },
+                        {
+                            "name": "Yellow",
+                            "srcImg": "https://i.imgur.com/q04Ly1y.png"
                         }
                     ]
                 },
