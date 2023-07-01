@@ -596,7 +596,7 @@ const iphones = [
             "value": 1099,
             "name": "iPhone 12 Pro",
             "type": "iphone",
-            "srcImg": "https:/live.staticflickr.com/65535/53011472708_f54ce0d531_z.jpg",
+            "srcImg": "",
             "specifications": [
                 {
                     "title": "Display",
@@ -811,11 +811,7 @@ const iphones = [
             "name": "iPhone 13 mini",
             "type": "iphone",
             "srcImg": [
-                "https://i.imgur.com/I9i9Jxj.png",
-                "https://i.imgur.com/jyYAsGT.png",
                 "https://i.imgur.com/sgeFbOJ.png",
-                "https://i.imgur.com/1IkVdWv.png",
-                "https://live.staticflickr.com/65535/53010937621_71614d1939_b.jpg"
             ],
             "specifications": [
                 {
