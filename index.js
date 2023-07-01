@@ -6,6 +6,33 @@ const port = 3000
 
 const iphones = [
         {
+            "value": 3000,
+            "name": "iPhone SE",
+            "type": "iphone",
+            "srcImg": [
+                "https://i.imgur.com/VyJTUtd.png"
+            ],
+            "specifications": [
+                {
+                    "title": "Color",
+                    "items": [
+                        {
+                            "name": "Midnight",
+                            "srcImg": "https://i.imgur.com/85rMH8h.png"
+                        },
+                        {
+                            "name": "Starlight",
+                            "srcImg": "https://i.imgur.com/0Nf4ftd.png"
+                        },
+                        {
+                            "name": "Red",
+                            "srcImg": "https://i.imgur.com/nJvT1wT.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "value": 699,
             "name": "iPhone 12",
             "type": "iphone",
