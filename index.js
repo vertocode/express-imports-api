@@ -29,6 +29,46 @@ const iphones = [
                             "srcImg": "https://i.imgur.com/nJvT1wT.png"
                         }
                     ]
+                },
+                {
+                    "title": "Display",
+                    "items": [
+                        {
+                            "name": "4.7-inch Retina HD"
+                        }
+                    ]
+                },
+                {
+                    "title": "Processor",
+                    "items": [
+                        {
+                            "name": "A15 Bionic chip with 4-core GPU"
+                        }
+                    ]
+                },
+                {
+                    "title": "Camera",
+                    "items": [
+                        {
+                            "name": "12 MP Main"
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage",
+                    "items": [
+                        {
+                            "name": "64 GB"
+                        },
+                        {
+                            "name": "128 GB",
+                            "value": 50
+                        },
+                        {
+                            "name": "256 GB",
+                            "value": 150
+                        }
+                    ]
                 }
             ]
         },
@@ -443,22 +483,28 @@ const iphones = [
             "value": 1299,
             "name": "iPhone 14 Pro",
             "type": "iphone",
-            "srcImg": "https://i.imgur.com/ZNL8gtX.jpg",
+            "srcImg": [
+                "https://i.imgur.com/JEKgae4.png"
+            ],
             "specifications": [
                 {
                     "title": "Color",
                     "items": [
                         {
-                            "name": "Graphite"
+                            "name": "Deep Purple",
+                            "srcImg": "https://i.imgur.com/4XLl1ec.png"
                         },
                         {
-                            "name": "Gold"
+                            "name": "Gold",
+                            "srcImg": "https://i.imgur.com/OkURmrW.png"
                         },
                         {
-                            "name": "Silver"
+                            "name": "Silver",
+                            "srcImg": "https://i.imgur.com/OSlyLLp.png"
                         },
                         {
-                            "name": "Bronze"
+                            "name": "Space Black",
+                            "srcImg": "https://i.imgur.com/86NvvyB.png"
                         }
                     ]
                 },
@@ -512,22 +558,28 @@ const iphones = [
             "value": 1399,
             "name": "iPhone 14 Pro Max",
             "type": "iphone",
-            "srcImg": ["https://i.imgur.com/e5QDo6w.png", "https://i.imgur.com/qiul8iu.png"],
+            "srcImg": [
+                "https://i.imgur.com/JEKgae4.png"
+            ],
             "specifications": [
                 {
                     "title": "Color",
                     "items": [
                         {
-                            "name": "Graphite"
+                            "name": "Deep Purple",
+                            "srcImg": "https://i.imgur.com/4XLl1ec.png"
                         },
                         {
-                            "name": "Gold"
+                            "name": "Gold",
+                            "srcImg": "https://i.imgur.com/OkURmrW.png"
                         },
                         {
-                            "name": "Silver"
+                            "name": "Silver",
+                            "srcImg": "https://i.imgur.com/OSlyLLp.png"
                         },
                         {
-                            "name": "Bronze"
+                            "name": "Space Black",
+                            "srcImg": "https://i.imgur.com/86NvvyB.png"
                         }
                     ]
                 },
