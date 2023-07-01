@@ -81,219 +81,11 @@ const iphones = [
             ]
         },
         {
-            "value": 799,
-            "name": "iPhone 12 mini",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/XZ0pdzR.jpg",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "5.4-inch Super Retina XDR"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A14 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP dual-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "64 GB"
-                        },
-                        {
-                            "name": "128 GB",
-                            "value": 50
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 150
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Black"
-                        },
-                        {
-                            "name": "White"
-                        },
-                        {
-                            "name": "Red"
-                        },
-                        {
-                            "name": "Green"
-                        },
-                        {
-                            "name": "Blue"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 1099,
-            "name": "iPhone 12 Pro",
-            "type": "iphone",
-            "srcImg": "",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "6.1-inch Super Retina XDR"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A14 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP triple-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "128 GB"
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 100
-                        },
-                        {
-                            "name": "512 GB",
-                            "value": 200
-                        },
-                        {
-                            "name": "1 TB",
-                            "value": 400
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Graphite"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Pacific Blue"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "value": 1199,
-            "name": "iPhone 12 Pro Max",
-            "type": "iphone",
-            "srcImg": "https://i.imgur.com/tE0eN9V.png",
-            "specifications": [
-                {
-                    "title": "Display",
-                    "items": [
-                        {
-                            "name": "6.7-inch Super Retina XDR"
-                        }
-                    ]
-                },
-                {
-                    "title": "Processor",
-                    "items": [
-                        {
-                            "name": "A14 Bionic chip"
-                        }
-                    ]
-                },
-                {
-                    "title": "Camera",
-                    "items": [
-                        {
-                            "name": "12 MP triple-camera system"
-                        }
-                    ]
-                },
-                {
-                    "title": "Storage",
-                    "items": [
-                        {
-                            "name": "128 GB"
-                        },
-                        {
-                            "name": "256 GB",
-                            "value": 100
-                        },
-                        {
-                            "name": "512 GB",
-                            "value": 200
-                        },
-                        {
-                            "name": "1 TB",
-                            "value": 400
-                        }
-                    ]
-                },
-                {
-                    "title": "Color",
-                    "items": [
-                        {
-                            "name": "Graphite"
-                        },
-                        {
-                            "name": "Silver"
-                        },
-                        {
-                            "name": "Gold"
-                        },
-                        {
-                            "name": "Pacific Blue"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "value": 999,
             "name": "iPhone 13",
             "type": "iphone",
             "srcImg": [
-                "https://i.imgur.com/d0tQjyQ.png",
-                "https://i.imgur.com/v96tW3m.png",
-                "https://i.imgur.com/jjGmzOc.png"
+                "https://i.imgur.com/fq2xDPu.png"
             ],
             "specifications": [
                 {
@@ -344,19 +136,28 @@ const iphones = [
                     "title": "Color",
                     "items": [
                         {
-                            "name": "Pink"
+                            "name": "Pink",
+                            "srcImg": "https://i.imgur.com/fPvM82l.png"
                         },
                         {
-                            "name": "Blue"
+                            "name": "Blue",
+                            "srcImg": "https://i.imgur.com/fF0v9GK.png"
                         },
                         {
-                            "name": "Midnight"
+                            "name": "Midnight",
+                            "srcImg": "https://i.imgur.com/LjMz6D5.png"
                         },
                         {
-                            "name": "Starlight"
+                            "name": "Starlight",
+                            "srcImg": "https://i.imgur.com/zSO5fKO.png"
                         },
                         {
-                            "name": "Product(RED)"
+                            "name": "Green",
+                            "srcImg": "https://i.imgur.com/Facfy8W.png"
+                        },
+                        {
+                            "name": "Product(RED)",
+                            "srcImg": "https://i.imgur.com/yQYiR5P.png"
                         }
                     ]
                 }
@@ -367,7 +168,7 @@ const iphones = [
             "name": "iPhone 13 mini",
             "type": "iphone",
             "srcImg": [
-                "https://i.imgur.com/sgeFbOJ.png",
+                "https://i.imgur.com/fq2xDPu.png"
             ],
             "specifications": [
                 {
@@ -418,19 +219,28 @@ const iphones = [
                     "title": "Color",
                     "items": [
                         {
-                            "name": "Pink"
+                            "name": "Pink",
+                            "srcImg": "https://i.imgur.com/fPvM82l.png"
                         },
                         {
-                            "name": "Blue"
+                            "name": "Blue",
+                            "srcImg": "https://i.imgur.com/fF0v9GK.png"
                         },
                         {
-                            "name": "Midnight"
+                            "name": "Midnight",
+                            "srcImg": "https://i.imgur.com/LjMz6D5.png"
                         },
                         {
-                            "name": "Starlight"
+                            "name": "Starlight",
+                            "srcImg": "https://i.imgur.com/zSO5fKO.png"
                         },
                         {
-                            "name": "Product(RED)"
+                            "name": "Green",
+                            "srcImg": "https://i.imgur.com/Facfy8W.png"
+                        },
+                        {
+                            "name": "Product(RED)",
+                            "srcImg": "https://i.imgur.com/yQYiR5P.png"
                         }
                     ]
                 }
@@ -648,7 +458,7 @@ const iphones = [
         },
         {
             "value": 1099,
-            "name": "iPhone 14 mini",
+            "name": "iPhone 14 Plus",
             "type": "iphone",
             "srcImg": "https://i.imgur.com/ff7aLuh.jpg",
             "specifications": [
@@ -656,7 +466,7 @@ const iphones = [
                     "title": "Display",
                     "items": [
                         {
-                            "name": "5.4-inch Super Retina XDR"
+                            "name": "6.7-inch"
                         }
                     ]
                 },
