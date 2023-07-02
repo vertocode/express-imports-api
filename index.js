@@ -630,6 +630,97 @@ const iphones = [
             ]
         }
     ]
+const macbook = [
+    {
+        "value": 7500,
+        "name": "MacBook Air 13-inch (M1 chip)",
+        "type": "macbook",
+        "srcImg": "https://i.imgur.com/MPKg16X.jpg",
+        "description": "Two Thunderbolt / USB 4 ports\n" +
+            "Magic Keyboard with Touch ID\n" +
+            "Force Touch trackpad\n" +
+            "30W USB-C Power Adapter\n"+
+            "7-Core GPU",
+        "specifications": [
+            {
+              "title": "Color",
+              "items": [
+                  {
+                      "name": "Gray",
+                      "srcImg": "https://i.imgur.com/ZL4SUvb.png"
+                  },
+                  {
+                      "name": "Gold",
+                      "srcImg": "https://i.imgur.com/q78LNle.png"
+                  },
+                  {
+                      "name": "Silver",
+                      "srcImg": "https://i.imgur.com/KL4hSW9.png"
+                  }
+              ]
+            },
+            {
+                "title": "Processor",
+                "items": [
+                    {
+                        "name": "M1 8-Core CPU"
+                    }
+                ]
+            },
+            {
+                "title": "Display",
+                "items": [
+                    {
+                        "name": "13-inch Retina display with True Tone"
+                    }
+                ]
+            },
+            {
+                "title": "RAM",
+                "items": [
+                    {
+                        "name": "8 GB"
+                    },
+                    {
+                        "name": "16 GB",
+                        "value": 2000
+                    }
+                ]
+            },
+            {
+                "title": "Storage",
+                "items": [
+                    {
+                        "name":"256 GB"
+                    },
+                    {
+                        "name":"512 GB",
+                        "value": 1000
+                    },
+                    {
+                        "name":"1 TB",
+                        "value": 1500
+                    },
+                    {
+                        "name": "2 TB",
+                        "value": 2000
+                    }
+                ]
+            },
+            {
+                "title": "Keyboard Language",
+                "items": [
+                    {
+                        "name": "Portuguese"
+                    },
+                    {
+                        "name": "US English"
+                    }
+                ]
+            }
+        ]
+    },
+]
 const macMini = [
     {
         "value": 6000,
@@ -742,116 +833,14 @@ const macStudio = [
         ]
     }
 ]
-const macbook = [
-    {
-        "value": 7500,
-        "name": "MacBook Air",
-        "type": "macbook",
-        "srcImg": "https://i.imgur.com/MPKg16X.jpg",
-        "description": "Macbook is very cool! dynamic description",
-        "specifications": [
-            {
-                "title": "Processor",
-                "items": [
-                    {
-                        "name": "M1 chip"
-                    },
-                    {
-                        "name": "M2 chip",
-                        "value": 4000
-                    }
-                ]
-            },
-            {
-                "title": "RAM",
-                "items": [
-                    {
-                        "name": "8 GB"
-                    },
-                    {
-                        "name": "16 GB",
-                        "value": 2000
-                    }
-                ]
-            },
-            {
-                "title": "Storage",
-                "items": [
-                    {
-                        "name":"256 GB"
-                    },
-                    {
-                        "name":"512 GB",
-                        "value": 1000
-                    },
-                    {
-                        "name":"1 TB",
-                        "value": 1500
-                    },
-                    {
-                        "name": "2 TB",
-                        "value": 2000
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "value": 14000,
-        "name": "MacBook Pro 14\"",
-        "type": "macbook",
-        "srcImg": "https://i.imgur.com/xlV8lBV.jpg",
-        "description": "Super Macbook!",
-        "specifications": [
-            {
-                "title": "Processor",
-                "items": [
-                    {
-                        "name": "M1 max"
-                    },
-                    {
-                        "name": "M2 max",
-                        "value": 4000
-                    }
-                ]
-            },
-            {
-                "title": "RAM",
-                "items": [
-                    {
-                        "name": "16 GB",
-                        "value": 2000
-                    }
-                ]
-            },
-            {
-                "title": "Storage",
-                "items": [
-                    {
-                        "name":"256 GB"
-                    },
-                    {
-                        "name":"512 GB",
-                        "value": 1000
-                    },
-                    {
-                        "name":"1 TB",
-                        "value": 1500
-                    },
-                    {
-                        "name": "2 TB",
-                        "value": 2000
-                    }
-                ]
-            }
-        ]
-    }
-]
+const accessories = []
+
 
 const allProducts = [
     ...iphones,
     ...macbook,
     ...macMini,
+    ...accessories,
     ...macStudio,
 ]
 
