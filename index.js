@@ -635,7 +635,7 @@ const macbook = [
         "value": 7500,
         "name": "MacBook Air 13-inch (M1 chip)",
         "type": "macbook",
-        "srcImg": "https://i.imgur.com/MPKg16X.jpg",
+        "srcImg": [],
         "description": "Two Thunderbolt / USB 4 ports\n" +
             "Magic Keyboard with Touch ID\n" +
             "Force Touch trackpad\n" +
@@ -668,6 +668,14 @@ const macbook = [
                 ]
             },
             {
+                "title": "GPU",
+                "items": [
+                    {
+                        "name": "8 GPU"
+                    }
+                ]
+            },
+            {
                 "title": "Display",
                 "items": [
                     {
@@ -684,6 +692,117 @@ const macbook = [
                     {
                         "name": "16 GB",
                         "value": 2000
+                    }
+                ]
+            },
+            {
+                "title": "Storage",
+                "items": [
+                    {
+                        "name":"256 GB"
+                    },
+                    {
+                        "name":"512 GB",
+                        "value": 1000
+                    },
+                    {
+                        "name":"1 TB",
+                        "value": 1500
+                    },
+                    {
+                        "name": "2 TB",
+                        "value": 2000
+                    }
+                ]
+            },
+            {
+                "title": "Keyboard Language",
+                "items": [
+                    {
+                        "name": "Portuguese"
+                    },
+                    {
+                        "name": "US English"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "value": 7500,
+        "name": "MacBook Air 13-inch (M2 chip)",
+        "type": "macbook",
+        "srcImg": [],
+        "description": "16-core Neural Engine" +
+            "1080p FaceTime HD camera\n" +
+            "MagSafe 3 charging port\n" +
+            "Two Thunderbolt / USB 4 ports\n" +
+            "Magic Keyboard with Touch ID\n" +
+            "Force Touch trackpad\n" +
+            "30W USB-C Power Adapter",
+        "specifications": [
+            {
+                "title": "Color",
+                "items": [
+                    {
+                        "name": "Midnight",
+                        "srcImg": "https://i.imgur.com/2COTC6X.png"
+                    },
+                    {
+                        "name": "Starlight",
+                        "srcImg": "https://i.imgur.com/i8CzLbW.png"
+                    },
+                    {
+                        "name": "Space Gray",
+                        "srcImg": "https://i.imgur.com/utcCAbb.png"
+                    },
+                    {
+                        "name": "Silver",
+                        "srcImg": "https://i.imgur.com/ezCyMDy.png"
+                    }
+                ]
+            },
+            {
+                "title": "Processor",
+                "items": [
+                    {
+                        "name": "M2 8-Core CPU"
+                    }
+                ]
+            },
+            {
+                "title": "GPU",
+                "items": [
+                    {
+                        "name": "8 GPU"
+                    },
+                    {
+                        "name": "10 GPU",
+                        "value": 1000
+                    }
+                ]
+            },
+            {
+                "title": "Display",
+                "items": [
+                    {
+                        "name": "13.6-inch Liquid Retina display with True Tone³"
+                    }
+                ]
+            },
+            {
+                "title": "RAM",
+                "items": [
+                    {
+                        "name": "8 GB"
+                    },
+                    {
+                        "name": "16 GB",
+                        "value": 2000
+                    },
+                    {
+                        "name": "24 GB",
+                        "value": 3500
                     }
                 ]
             },
