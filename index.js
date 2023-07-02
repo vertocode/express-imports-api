@@ -671,7 +671,7 @@ const macbook = [
                 "title": "GPU",
                 "items": [
                     {
-                        "name": "8 GPU"
+                        "name": "8-core GPU"
                     }
                 ]
             },
@@ -774,10 +774,10 @@ const macbook = [
                 "title": "GPU",
                 "items": [
                     {
-                        "name": "8 GPU"
+                        "name": "8-core GPU"
                     },
                     {
-                        "name": "10 GPU",
+                        "name": "10-core GPU",
                         "value": 1000
                     }
                 ]
@@ -787,6 +787,114 @@ const macbook = [
                 "items": [
                     {
                         "name": "13.6-inch Liquid Retina display with True Tone³"
+                    }
+                ]
+            },
+            {
+                "title": "RAM",
+                "items": [
+                    {
+                        "name": "8 GB"
+                    },
+                    {
+                        "name": "16 GB",
+                        "value": 2000
+                    },
+                    {
+                        "name": "24 GB",
+                        "value": 3500
+                    }
+                ]
+            },
+            {
+                "title": "Storage",
+                "items": [
+                    {
+                        "name":"256 GB"
+                    },
+                    {
+                        "name":"512 GB",
+                        "value": 1000
+                    },
+                    {
+                        "name":"1 TB",
+                        "value": 1500
+                    },
+                    {
+                        "name": "2 TB",
+                        "value": 2000
+                    }
+                ]
+            },
+            {
+                "title": "Keyboard Language",
+                "items": [
+                    {
+                        "name": "Portuguese"
+                    },
+                    {
+                        "name": "US English"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "value": 12000,
+        "name": "MacBook Air 15-inch (M2 chip)",
+        "type": "macbook",
+        "srcImg": [],
+        "description": "16-core Neural Engine" +
+            "1080p FaceTime HD camera\n" +
+            "MagSafe 3 charging port\n" +
+            "Two Thunderbolt / USB 4 ports\n" +
+            "Magic Keyboard with Touch ID\n" +
+            "Force Touch trackpad\n" +
+            "35W Dual USB-C Port Compact Power Adapter",
+        "specifications": [
+            {
+                "title": "Color",
+                "items": [
+                    {
+                        "name": "Midnight",
+                        "srcImg": "https://i.imgur.com/VNpP50o.png"
+                    },
+                    {
+                        "name": "Starlight",
+                        "srcImg": "https://i.imgur.com/Sz4iHFX.png"
+                    },
+                    {
+                        "name": "Space Gray",
+                        "srcImg": "https://i.imgur.com/wTIaDrX.png"
+                    },
+                    {
+                        "name": "Silver",
+                        "srcImg": "https://i.imgur.com/kgMyEZb.png"
+                    }
+                ]
+            },
+            {
+                "title": "Processor",
+                "items": [
+                    {
+                        "name": "M2 8-Core CPU"
+                    }
+                ]
+            },
+            {
+                "title": "GPU",
+                "items": [
+                    {
+                        "name": "10-core GPU",
+                        "value": 1000
+                    }
+                ]
+            },
+            {
+                "title": "Display",
+                "items": [
+                    {
+                        "name": "15.3-inch Liquid Retina display with True Tone³"
                     }
                 ]
             },
