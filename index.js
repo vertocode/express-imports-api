@@ -1077,7 +1077,14 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 app.get("/products", (req, res) => {
+    if (req.params.id) {
+        return
+    }
     res.send(allProducts)
+})
+
+app.get(`/products/:id`, (req, res) => {
+    res.send(allProducts.filter(product => product.type === req.params.id))
 })
 
 app.get('/users', (req, res) => {
