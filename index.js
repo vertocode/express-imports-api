@@ -1088,7 +1088,13 @@ app.get(`/products/:id`, (req, res) => {
 })
 
 app.get('/users', (req, res) => {
-    res.send([])
+    res.send([
+        {
+            name: 'Everton Vanoni',
+            email: 'evertonvanoni1@gmail.com',
+            password: 'test123'
+        }
+    ])
 })
 app.listen(port, () => {
     console.log(`Running on port ${port}.`)
