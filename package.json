@@ -5,8 +5,9 @@
   "repository": "git@github.com:vertocode/imports-api.git",
   "author": "vertocode <evertonvanoni1@gmail.com>",
   "license": "MIT",
+  "type": "commonjs",
   "scripts": {
-    "build": "yarn tsc",
+    "build": "bash scripts/build.sh",
     "dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/index.ts",
     "start": "node dist/index.js"
   },

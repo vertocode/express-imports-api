@@ -2,16 +2,16 @@ import type {Express} from 'express'
 import express, {Request, Response, Router} from 'express'
 import cors from 'cors'
 import bodyParser from 'body-parser'
-import {getAllProducts, getProduct, ProductTypes, validateProductType} from './helpers/product'
+import { getAllProducts, getProduct, validateProductType } from './helpers/product'
 
 const app: Express = express()
 const route: Router = Router()
 const port: string = process.env.PORT || '3000'
 
-const corsOptions = {
-    origin: ['https://imports.vertocode.com', 'http://localhost']
-}
-app.use(cors(corsOptions))
+// const corsOptions = {
+//     origin: ['https://imports.vertocode.com', 'http://localhost']
+// }
+app.use(cors())
 app.use(express.json())
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
