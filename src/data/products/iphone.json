@@ -1,0 +1,626 @@
+[
+  {
+    "value": 3000,
+    "name": "iPhone SE",
+    "type": "iphone",
+    "srcImg": [
+      "https://i.imgur.com/VyJTUtd.png"
+    ],
+    "specifications": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Midnight",
+            "srcImg": "https://i.imgur.com/85rMH8h.png"
+          },
+          {
+            "name": "Starlight",
+            "srcImg": "https://i.imgur.com/0Nf4ftd.png"
+          },
+          {
+            "name": "Red",
+            "srcImg": "https://i.imgur.com/nJvT1wT.png"
+          }
+        ]
+      },
+      {
+        "title": "Display",
+        "items": [
+          {
+            "name": "4.7-inch Retina HD"
+          }
+        ]
+      },
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "A15 Bionic chip with 4-core GPU"
+          }
+        ]
+      },
+      {
+        "title": "Camera",
+        "items": [
+          {
+            "name": "12 MP Main"
+          }
+        ]
+      },
+      {
+        "title": "Storage",
+        "items": [
+          {
+            "name": "64 GB"
+          },
+          {
+            "name": "128 GB",
+            "value": 50
+          },
+          {
+            "name": "256 GB",
+            "value": 150
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 699,
+    "name": "iPhone 12",
+    "type": "iphone",
+    "srcImg": [
+      "https://i.imgur.com/fJEvULJ.png"
+    ],
+    "specifications": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Black",
+            "srcImg": "https://i.imgur.com/rvJXTo2.png"
+          },
+          {
+            "name": "White",
+            "srcImg": "https://i.imgur.com/eC15LBy.png"
+          },
+          {
+            "name": "Red",
+            "srcImg": "https://i.imgur.com/0Yd0PRo.png"
+          },
+          {
+            "name": "Green",
+            "srcImg": "https://i.imgur.com/HmRIaMi.png"
+          },
+          {
+            "name": "Blue",
+            "srcImg": "https://i.imgur.com/zPzb56Y.png"
+          }
+        ]
+      },
+      {
+        "title": "Display",
+        "items": [
+          {
+            "name": "6.1-inch Super Retina XDR"
+          }
+        ]
+      },
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "A14 Bionic chip"
+          }
+        ]
+      },
+      {
+        "title": "Camera",
+        "items": [
+          {
+            "name": "12 MP dual-camera system"
+          }
+        ]
+      },
+      {
+        "title": "Storage",
+        "items": [
+          {
+            "name": "64 GB"
+          },
+          {
+            "name": "128 GB",
+            "value": 50
+          },
+          {
+            "name": "256 GB",
+            "value": 150
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 999,
+    "name": "iPhone 13",
+    "type": "iphone",
+    "srcImg": [
+      "https://i.imgur.com/fq2xDPu.png"
+    ],
+    "specifications": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Pink",
+            "srcImg": "https://i.imgur.com/fPvM82l.png"
+          },
+          {
+            "name": "Blue",
+            "srcImg": "https://i.imgur.com/fF0v9GK.png"
+          },
+          {
+            "name": "Midnight",
+            "srcImg": "https://i.imgur.com/LjMz6D5.png"
+          },
+          {
+            "name": "Starlight",
+            "srcImg": "https://i.imgur.com/zSO5fKO.png"
+          },
+          {
+            "name": "Green",
+            "srcImg": "https://i.imgur.com/Facfy8W.png"
+          },
+          {
+            "name": "Product(RED)",
+            "srcImg": "https://i.imgur.com/yQYiR5P.png"
+          }
+        ]
+      },
+      {
+        "title": "Display",
+        "items": [
+          {
+            "name": "6.1-inch Super Retina XDR"
+          }
+        ]
+      },
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "A15 Bionic chip"
+          }
+        ]
+      },
+      {
+        "title": "Camera",
+        "items": [
+          {
+            "name": "12 MP dual-camera system"
+          }
+        ]
+      },
+      {
+        "title": "Storage",
+        "items": [
+          {
+            "name": "128 GB"
+          },
+          {
+            "name": "256 GB",
+            "value": 100
+          },
+          {
+            "name": "512 GB",
+            "value": 200
+          },
+          {
+            "name": "1 TB",
+            "value": 400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 1099,
+    "name": "iPhone 13 Mini",
+    "type": "iphone",
+    "srcImg": [
+      "https://i.imgur.com/fq2xDPu.png"
+    ],
+    "specifications": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Pink",
+            "srcImg": "https://i.imgur.com/fPvM82l.png"
+          },
+          {
+            "name": "Blue",
+            "srcImg": "https://i.imgur.com/fF0v9GK.png"
+          },
+          {
+            "name": "Midnight",
+            "srcImg": "https://i.imgur.com/LjMz6D5.png"
+          },
+          {
+            "name": "Starlight",
+            "srcImg": "https://i.imgur.com/zSO5fKO.png"
+          },
+          {
+            "name": "Green",
+            "srcImg": "https://i.imgur.com/Facfy8W.png"
+          },
+          {
+            "name": "Product(RED)",
+            "srcImg": "https://i.imgur.com/yQYiR5P.png"
+          }
+        ]
+      },
+      {
+        "title": "Display",
+        "items": [
+          {
+            "name": "5.4-inch Super Retina XDR"
+          }
+        ]
+      },
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "A15 Bionic chip"
+          }
+        ]
+      },
+      {
+        "title": "Camera",
+        "items": [
+          {
+            "name": "12 MP dual-camera system"
+          }
+        ]
+      },
+      {
+        "title": "Storage",
+        "items": [
+          {
+            "name": "128 GB"
+          },
+          {
+            "name": "256 GB",
+            "value": 100
+          },
+          {
+            "name": "512 GB",
+            "value": 200
+          },
+          {
+            "name": "1 TB",
+            "value": 400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 999,
+    "name": "iPhone 14",
+    "type": "iphone",
+    "srcImg": [
+      "https://i.imgur.com/YP5VVmn.png"
+    ],
+    "specifications": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Midnight",
+            "srcImg": "https://i.imgur.com/AKJCzI1.png"
+          },
+          {
+            "name": "Starlight",
+            "srcImg": "https://i.imgur.com/sPGTi7U.png"
+          },
+          {
+            "name": "Red",
+            "srcImg": "https://i.imgur.com/e3PQ4IX.png"
+          },
+          {
+            "name": "Purple",
+            "srcImg": "https://i.imgur.com/0VuDrcg.png"
+          },
+          {
+            "name": "Blue",
+            "srcImg": "https://i.imgur.com/vfsuihe.png"
+          },
+          {
+            "name": "Yellow",
+            "srcImg": "https://i.imgur.com/q04Ly1y.png"
+          }
+        ]
+      },
+      {
+        "title": "Display",
+        "items": [
+          {
+            "name": "6.1-inch Super Retina XDR"
+          }
+        ]
+      },
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "A16 Bionic chip"
+          }
+        ]
+      },
+      {
+        "title": "Camera",
+        "items": [
+          {
+            "name": "12 MP dual-camera system"
+          }
+        ]
+      },
+      {
+        "title": "Storage",
+        "items": [
+          {
+            "name": "128 GB"
+          },
+          {
+            "name": "256 GB",
+            "value": 100
+          },
+          {
+            "name": "512 GB",
+            "value": 200
+          },
+          {
+            "name": "1 TB",
+            "value": 400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 1099,
+    "name": "iPhone 14 Plus",
+    "type": "iphone",
+    "srcImg": [
+      "https://i.imgur.com/YP5VVmn.png"
+    ],
+    "specifications": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Midnight",
+            "srcImg": "https://i.imgur.com/AKJCzI1.png"
+          },
+          {
+            "name": "Starlight",
+            "srcImg": "https://i.imgur.com/sPGTi7U.png"
+          },
+          {
+            "name": "Red",
+            "srcImg": "https://i.imgur.com/e3PQ4IX.png"
+          },
+          {
+            "name": "Purple",
+            "srcImg": "https://i.imgur.com/0VuDrcg.png"
+          },
+          {
+            "name": "Blue",
+            "srcImg": "https://i.imgur.com/vfsuihe.png"
+          },
+          {
+            "name": "Yellow",
+            "srcImg": "https://i.imgur.com/q04Ly1y.png"
+          }
+        ]
+      },
+      {
+        "title": "Display",
+        "items": [
+          {
+            "name": "6.7-inch"
+          }
+        ]
+      },
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "A16 Bionic chip"
+          }
+        ]
+      },
+      {
+        "title": "Camera",
+        "items": [
+          {
+            "name": "12 MP dual-camera system"
+          }
+        ]
+      },
+      {
+        "title": "Storage",
+        "items": [
+          {
+            "name": "128 GB"
+          },
+          {
+            "name": "256 GB",
+            "value": 100
+          },
+          {
+            "name": "512 GB",
+            "value": 200
+          },
+          {
+            "name": "1 TB",
+            "value": 400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 1299,
+    "name": "iPhone 14 Pro",
+    "type": "iphone",
+    "srcImg": [
+      "https://i.imgur.com/JEKgae4.png"
+    ],
+    "specifications": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Deep Purple",
+            "srcImg": "https://i.imgur.com/4XLl1ec.png"
+          },
+          {
+            "name": "Gold",
+            "srcImg": "https://i.imgur.com/OkURmrW.png"
+          },
+          {
+            "name": "Silver",
+            "srcImg": "https://i.imgur.com/OSlyLLp.png"
+          },
+          {
+            "name": "Space Black",
+            "srcImg": "https://i.imgur.com/86NvvyB.png"
+          }
+        ]
+      },
+      {
+        "title": "Display",
+        "items": [
+          {
+            "name": "6.1-inch Super Retina XDR"
+          }
+        ]
+      },
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "A16 Bionic chip"
+          }
+        ]
+      },
+      {
+        "title": "Camera",
+        "items": [
+          {
+            "name": "12 MP triple-camera system"
+          }
+        ]
+      },
+      {
+        "title": "Storage",
+        "items": [
+          {
+            "name": "128 GB"
+          },
+          {
+            "name": "256 GB",
+            "value": 100
+          },
+          {
+            "name": "512 GB",
+            "value": 200
+          },
+          {
+            "name": "1 TB",
+            "value": 400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 1399,
+    "name": "iPhone 14 Pro Max",
+    "type": "iphone",
+    "srcImg": [
+      "https://i.imgur.com/JEKgae4.png"
+    ],
+    "specifications": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Deep Purple",
+            "srcImg": "https://i.imgur.com/4XLl1ec.png"
+          },
+          {
+            "name": "Gold",
+            "srcImg": "https://i.imgur.com/OkURmrW.png"
+          },
+          {
+            "name": "Silver",
+            "srcImg": "https://i.imgur.com/OSlyLLp.png"
+          },
+          {
+            "name": "Space Black",
+            "srcImg": "https://i.imgur.com/86NvvyB.png"
+          }
+        ]
+      },
+      {
+        "title": "Display",
+        "items": [
+          {
+            "name": "6.7-inch Super Retina XDR"
+          }
+        ]
+      },
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "A16 Bionic chip"
+          }
+        ]
+      },
+      {
+        "title": "Camera",
+        "items": [
+          {
+            "name": "12 MP triple-camera system"
+          }
+        ]
+      },
+      {
+        "title": "Storage",
+        "items": [
+          {
+            "name": "128 GB"
+          },
+          {
+            "name": "256 GB",
+            "value": 100
+          },
+          {
+            "name": "512 GB",
+            "value": 200
+          },
+          {
+            "name": "1 TB",
+            "value": 400
+          }
+        ]
+      }
+    ]
+  }
+]
