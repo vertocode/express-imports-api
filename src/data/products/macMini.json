@@ -1,0 +1,54 @@
+[
+  {
+    "value": 6000,
+    "name": "Mac Mini",
+    "type": "mac-mini",
+    "srcImg": "https://i.imgur.com/9t6gtXV.png",
+    "specifications": [
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "M1 chip"
+          },
+          {
+            "name": "M2 chip",
+            "value": 3500
+          }
+        ]
+      },
+      {
+        "title": "RAM",
+        "items": [
+          {
+            "name": "8 GB"
+          },
+          {
+            "name": "16 GB",
+            "value": 1500
+          }
+        ]
+      },
+      {
+        "title": "Storage",
+        "items": [
+          {
+            "name":"256 GB"
+          },
+          {
+            "name":"512 GB",
+            "value": 200
+          },
+          {
+            "name":"1 TB",
+            "value": 800
+          },
+          {
+            "name": "2 TB",
+            "value": 1500
+          }
+        ]
+      }
+    ]
+  }
+]
