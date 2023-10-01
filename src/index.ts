@@ -39,3 +39,5 @@ app.get('/product/:id', (req: any, res: Response): void => {
 app.listen(port, (): void => {
     console.log(`Imports API running on port: ${port}`)
 })
+
+module.exports = app
