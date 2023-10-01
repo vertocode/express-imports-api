@@ -10,6 +10,8 @@ export function getProduct(productType: ProductTypes) {
                return 'macbook.json'
            case ProductTypes.macMini:
                return 'macMini.json'
+           case ProductTypes.ipad:
+               return 'ipad.json'
            case ProductTypes.macStudio:
                return 'macStudio.json'
            case ProductTypes.accessories:
@@ -38,6 +40,7 @@ export enum ProductTypes {
     iphone = 'iphone',
     macbook = 'macbook',
     macMini = 'mac-mini',
+    ipad = 'ipad',
     macStudio = 'mac-studio',
     accessories = 'accessories'
 }
