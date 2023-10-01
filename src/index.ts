@@ -2,6 +2,7 @@ import type { Express } from 'express'
 import express, { Request, Response } from 'express'
 import cors from 'cors'
 import { getAllProducts, getProduct, validateProductType } from './helpers/product'
+import {getAllUsers} from "./helpers/user";
 
 const app: Express = express()
 const port: number = 3000
@@ -14,6 +15,10 @@ app.use(express.json())
 
 app.get('/', (req: Request, res: Response): void => {
     res.send({ status: 'OK' })
+})
+
+app.get('/users', (req: Request, res: Response): void => {
+    res.send(getAllUsers())
 })
 
 app.get('/products', (req: Request, res: Response): void => {

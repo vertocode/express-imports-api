@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Everton Admin",
+    "email": "everton@imports.vertocode",
+    "password": "123",
+    "type": "admin",
+    "picture": "https://i.imgur.com/D6TFeWdl.png"
+  }
+]
