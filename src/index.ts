@@ -2,7 +2,8 @@ import type { Express } from 'express'
 import express, { Request, Response } from 'express'
 import cors from 'cors'
 import { getAllProducts, getProduct, validateProductType } from './helpers/product'
-import {getAllUsers} from "./helpers/user";
+import { getAllUsers } from './helpers/user'
+import { getProductTypes } from './helpers/product-type'
 
 const app: Express = express()
 const port: number = 3000
@@ -33,6 +34,10 @@ app.get('/product/:id', (req: any, res: Response): void => {
         })
     }
     res.send(getProduct(req.params.id))
+})
+
+app.get('/product-types', (req: Request, res: Response): void => {
+    res.send(getProductTypes())
 })
 
 // TODO: Create query to users.
