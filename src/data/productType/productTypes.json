@@ -8,7 +8,7 @@
   {
     "name": "Request Other Product",
     "description": "Hey there! Got something specific in mind that you can't find in our current selection? No worries! We've got you covered. With our 'Request Other Product' option, you're in the driver's seat. Simply let us know what product you're craving, and we'll do the heavy lifting. We'll source it, import it, and get in touch with you as soon as it's ready to roll. Your wish is our command. So, if you've got a unique request, don't hesitate to drop us a line. We're here to make your shopping experience one-of-a-kind.",
-    "route": "/request-product",
+    "route": "product-list/request-product",
     "srcImg": "https://i.imgur.com/9QZCN6W.png"
   }
 ]
