@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "value": 3000,
     "name": "iPhone SE",
     "type": "iphone",
@@ -67,6 +68,7 @@
     ]
   },
   {
+    "id": 2,
     "value": 699,
     "name": "iPhone 12",
     "type": "iphone",
@@ -142,6 +144,7 @@
     ]
   },
   {
+    "id": 3,
     "value": 999,
     "name": "iPhone 13",
     "type": "iphone",
@@ -225,6 +228,7 @@
     ]
   },
   {
+    "id": 4,
     "value": 1099,
     "name": "iPhone 13 Mini",
     "type": "iphone",
@@ -308,6 +312,7 @@
     ]
   },
   {
+    "id": 5,
     "value": 999,
     "name": "iPhone 14",
     "type": "iphone",
@@ -391,6 +396,7 @@
     ]
   },
   {
+    "id": 6,
     "value": 1099,
     "name": "iPhone 14 Plus",
     "type": "iphone",
@@ -474,6 +480,7 @@
     ]
   },
   {
+    "id": 7,
     "value": 1299,
     "name": "iPhone 14 Pro",
     "type": "iphone",
@@ -549,6 +556,7 @@
     ]
   },
   {
+    "id": 8,
     "value": 1399,
     "name": "iPhone 14 Pro Max",
     "type": "iphone",

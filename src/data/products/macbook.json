@@ -1,5 +1,6 @@
 [
   {
+    "id": 9,
     "value": 7500,
     "name": "MacBook Air 13-inch (M1 chip)",
     "type": "macbook",
@@ -93,6 +94,7 @@
     ]
   },
   {
+    "id": 10,
     "value": 7500,
     "name": "MacBook Air 13-inch (M2 chip)",
     "type": "macbook",
@@ -198,6 +200,7 @@
     ]
   },
   {
+    "id": 11,
     "value": 12000,
     "name": "MacBook Air 15-inch (M2 chip)",
     "type": "macbook",
